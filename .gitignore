@@ -1,0 +1,15 @@
+.vscode
+.vs
+
+/server/bin
+/server/obj
+/server/msbuild.log
+/server/msbuild.wrn
+/server/msbuild.err
+
+/client/node_modules
+/client/coverage
+/client/build
+/client/npm-debug.log*
+/client/yarn-debug.log*
+/client/yarn-error.log*
